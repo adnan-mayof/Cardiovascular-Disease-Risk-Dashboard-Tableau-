@@ -2,7 +2,7 @@
 
 👉 **Where can I see the tool?**
 You can explore it live here:
-[Cardiovascular Disease Risk Dashboard](https://public.tableau.com/shared/PTCCRX7N4?:display_count=n&:origin=viz_share_link)
+[Cardiovascular Disease Risk Dashboard](https://public.tableau.com/views/HeartDiseases_17048449495930/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
