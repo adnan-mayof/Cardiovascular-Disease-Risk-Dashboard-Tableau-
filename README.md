@@ -14,6 +14,9 @@ The dashboard is interactive and allows you to filter the data.
 
 * **Age Group**
 
+<img width="1021" height="431" alt="image" src="https://github.com/user-attachments/assets/03f3c576-1259-46bd-b95a-37fdc68a96dd" />
+
+
 When you select an age group, the dashboard updates to show:
 
 * **Heart Disease** → distribution of Yes/No cases in that age group
